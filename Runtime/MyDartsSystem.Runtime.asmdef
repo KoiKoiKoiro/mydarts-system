@@ -1,0 +1,21 @@
+{
+    "name": "MyDartsSystem.Runtime",
+    "rootNamespace": "MyDartsSystem",
+    "references": [
+        "VRC.Udon",
+        "VRC.SDKBase",
+        "VRC.SDK3",
+        "UdonSharp.Runtime",
+        "VRC.Udon.Serialization.OdinSerializer",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

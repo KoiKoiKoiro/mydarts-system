@@ -1,25 +1,13 @@
 {
-  "name": "com.toranosuke.mydarts",
+  "name": "com.mydarts.system",
   "displayName": "MyDarts System",
   "version": "0.1.0",
   "unity": "2022.3",
-  "description": "VRChatワールド用のマイダーツ拡張。スプレッドシート連携でプレイヤー番号・所持コイン・パーツ構成をワールドをまたいで保存します。",
-  "author": {
-    "name": "とらのすけ",
-    "url": "https://github.com/CHANGE_ME"
-  },
+  "description": "VRChat world gimmick. Custom darts parts, gacha, achievements. Player data is stored externally so it can be shared across worlds.",
+  "author": { "name": "MyDarts System", "url": "https://github.com/KoiKoiKoiro/mydarts-system" },
   "license": "MIT",
-  "url": "https://github.com/CHANGE_ME/mydarts-system/releases/download/0.1.0/com.toranosuke.mydarts-0.1.0.zip",
-  "vpmDependencies": {
-    "com.vrchat.worlds": ">=3.10.4"
-  },
-  "legacyFolders": {
-    "Assets/MyDartsSystem": ""
-  },
-  "keywords": [
-    "vrchat",
-    "udon",
-    "udonsharp",
-    "darts"
-  ]
+  "url": "https://github.com/KoiKoiKoiro/mydarts-system/releases/download/0.1.0/com.mydarts.system-0.1.0.zip",
+  "vpmDependencies": { "com.vrchat.worlds": ">=3.10.4" },
+  "legacyFolders": { "Assets/MyDartsSystem": "" },
+  "keywords": ["vrchat","udon","udonsharp","darts"]
 }
